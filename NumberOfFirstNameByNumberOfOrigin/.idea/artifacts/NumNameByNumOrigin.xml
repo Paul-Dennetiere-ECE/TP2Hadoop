@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NumNameByNumOrigin">
+    <output-path>$PROJECT_DIR$/out/artifacts/NumNameByNumOrigin</output-path>
+    <root id="archive" name="NumNameByNumOrigin.jar">
+      <element id="module-output" name="NumberOfFirstNameByNumberOfOrigin" />
+    </root>
+  </artifact>
+</component>
